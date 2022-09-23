@@ -1,0 +1,31 @@
+# e3t45ertgdgdgfdfg
+stat
+
+cooler 9 off
+cooler 94 off
+alarm off
+stat
+cooler 9 off
+cooler 9 99C
+cooler 5 18C
+stat
+cooler 0 22C
+cooler rwsersdf
+alarm on
+window 1 open
+stat
+window 078 open
+window 0 open
+window 0 close
+window 1 close
+window 3 open
+state
+stat
+alarm on
+alarm off
+window 1 close
+window 3 close
+cooler 0 off
+cooler 5 off
+alarm on
+alarm on
